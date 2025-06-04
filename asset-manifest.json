@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/mughalfrontend/static/css/main.94564c8f.css",
-    "main.js": "/mughalfrontend/static/js/main.7dc9ca07.js",
+    "main.js": "/mughalfrontend/static/js/main.651c0611.js",
     "static/js/453.1be707c4.chunk.js": "/mughalfrontend/static/js/453.1be707c4.chunk.js",
     "static/media/Mughallogo.png": "/mughalfrontend/static/media/Mughallogo.d846f380a13449560748.png",
     "index.html": "/mughalfrontend/index.html",
     "main.94564c8f.css.map": "/mughalfrontend/static/css/main.94564c8f.css.map",
-    "main.7dc9ca07.js.map": "/mughalfrontend/static/js/main.7dc9ca07.js.map",
+    "main.651c0611.js.map": "/mughalfrontend/static/js/main.651c0611.js.map",
     "453.1be707c4.chunk.js.map": "/mughalfrontend/static/js/453.1be707c4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.94564c8f.css",
-    "static/js/main.7dc9ca07.js"
+    "static/js/main.651c0611.js"
   ]
 }
