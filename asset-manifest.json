@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/mughalfrontend/static/css/main.94564c8f.css",
-    "main.js": "/mughalfrontend/static/js/main.4b135e81.js",
+    "main.js": "/mughalfrontend/static/js/main.f33bf758.js",
     "static/js/239.19b99b69.chunk.js": "/mughalfrontend/static/js/239.19b99b69.chunk.js",
     "static/js/977.5a0469d0.chunk.js": "/mughalfrontend/static/js/977.5a0469d0.chunk.js",
     "static/js/455.141acbbf.chunk.js": "/mughalfrontend/static/js/455.141acbbf.chunk.js",
@@ -9,7 +9,7 @@
     "static/media/Mughallogo.png": "/mughalfrontend/static/media/Mughallogo.d846f380a13449560748.png",
     "index.html": "/mughalfrontend/index.html",
     "main.94564c8f.css.map": "/mughalfrontend/static/css/main.94564c8f.css.map",
-    "main.4b135e81.js.map": "/mughalfrontend/static/js/main.4b135e81.js.map",
+    "main.f33bf758.js.map": "/mughalfrontend/static/js/main.f33bf758.js.map",
     "239.19b99b69.chunk.js.map": "/mughalfrontend/static/js/239.19b99b69.chunk.js.map",
     "977.5a0469d0.chunk.js.map": "/mughalfrontend/static/js/977.5a0469d0.chunk.js.map",
     "455.141acbbf.chunk.js.map": "/mughalfrontend/static/js/455.141acbbf.chunk.js.map",
@@ -17,6 +17,6 @@
   },
   "entrypoints": [
     "static/css/main.94564c8f.css",
-    "static/js/main.4b135e81.js"
+    "static/js/main.f33bf758.js"
   ]
 }
